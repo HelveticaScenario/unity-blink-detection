@@ -1,0 +1,1 @@
+This project requires the [OpenCV for Unity](https://www.assetstore.unity3d.com/en/#!/content/21088) asset to function, which is omitted in the git repo because it is commercial (not to mention ~900 MB). The asset should be imported fully and with the default configuration, which will place it in `Assets/OpenCVForUnity/`.
